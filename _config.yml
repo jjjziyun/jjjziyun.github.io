@@ -130,7 +130,7 @@ enable_simple_analytics: false # Simple Analytics identifies a site by its domai
 google_site_verification: HMVIFujoKKmhhzoRlZnS6zzSZzU7JgFl3f9bSfG1swY # your google-site-verification ID (Google Search Console)
 google_site_verification_extra: # more Search Console codes, see _plugins/extra_site_verification.rb
   - FBWNHjkfmhuwmUPGFwmdML_2eoIuLmwH3N4ZBq-P-iI # https://ziyun.writecog.com/
-bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
+bing_site_verification: F4FF62D00659FAFA21DF27B42E6A85DD # your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -476,7 +476,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # -----------------------------------------------------------------------------
 
 enable_google_verification: true # enables google site verification
-enable_bing_verification: false # enables bing site verification
+enable_bing_verification: true # enables bing site verification
 enable_cookie_consent: false # enables GDPR-compliant cookie consent dialog (https://github.com/orestbida/cookieconsent)
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
